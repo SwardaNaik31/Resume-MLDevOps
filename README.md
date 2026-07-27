@@ -13,4 +13,6 @@ A beginner-friendly MLDevOps project to classify resumes using Machine Learning.
 
 ## Project Status
 
-Day 1 Completed ✅
+- Day 1 Completed ✅
+- Day 2 Completed ✅
+- Day 3 Completed ✅
